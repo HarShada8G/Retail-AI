@@ -1,0 +1,193 @@
+# Retail-AI
+
+This is a basic Android project where it tried to build a small retail-related app with simple validation and user flow. The idea is to simulate how user data can be verified before moving ahead in an application.
+
+---
+
+## What this project does
+
+* Takes user input (name and age)
+* Validates the input
+* Shows verification status
+* Allows moving to next screen only after verification
+
+---
+
+## Tech used
+
+* Kotlin
+* Android Studio
+* XML (for UI)
+* Gradle
+
+---
+
+## How to run
+
+1. Clone the repo:
+
+   ```
+   git clone https://github.com/HarShada8G/Retail-AI.git
+   ```
+
+2. Open in Android Studio
+
+3. Run on emulator or real device
+
+---
+
+## Folder structure (important parts)
+
+* `Android/app` → main Android code
+* `res/layout` → UI design
+* `java/...` → activity files
+
+---
+
+## Notes
+
+* This is a simple project made for learning
+* UI is basic, can be improved
+* Planning to add more features later
+
+---
+
+## Future ideas
+
+* Improve UI design
+* Add dark mode
+* Better validation
+* Maybe connect to backend
+
+---
+
+## Author
+
+Harshada Ghube
+GitHub: https://github.com/HarShada8G
+
+## Purpose
+TO understand the website README is used
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
